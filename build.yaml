@@ -21,4 +21,5 @@
 include:
   - board: PNCATEHO_Welcome_board
     shield: PNCATEHO_Welcome_keyboard
+    snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
