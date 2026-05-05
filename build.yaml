@@ -21,3 +21,4 @@
 include:
   - board: PNCATEHO_Welcome_board
     shield: PNCATEHO_Welcome_keyboard
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
